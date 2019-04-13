@@ -1,0 +1,8 @@
+	============= Aplikasi Sederhana Dengan Python ===========
+	Masukan Nilai Pertama: xxx
+	Masukan Nilai Kedua  : xxx
+	================ Hasil Perhitungan Cepat =================
+	1. xxx Ditambah  xxx Hasilnya : xxx
+	2. xxx Dikurangi xxx Hasilnya : xxx
+	3. xxx Dikali	 xxx Hasilnya : xxx
+	4. xxx Dibagi	 xxx Hasilnya : xxx

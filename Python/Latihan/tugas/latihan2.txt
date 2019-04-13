@@ -1,0 +1,25 @@
+	==== aplikasi perhitungan nilai ===    
+	Massukan Nilai Absen:  30
+	Masukan Nilai tugas :  40
+	Masukan Nilai UTS   :  50
+	Masukan Nilai UAS   :  100
+	
+		==== Hasil Nilai Akhir ===	
+	Nilai Absen Anda Adalah : 
+	Nilai Tugas Anda Adalah :
+	Nilai UTS Anda Adalah	:
+	Nilai UAS Anda Adalah	:
+	hasil Nilai Akhir Anda Adalah :
+		=== Grade ===
+	Anda Mendapatkan Grade  : x
+	Anda Dinyatakan 	: x
+
+
+Rumus:						Rumus Grade
+      Range Nilai dari 0 - 100			- A (90 - 100) -> Lulus
+      absen*10 persen				- B (75 - 89 ) -> Lulus
+      tugas*20 persen				- C (55 - 75 ) -> Lulus
+      UTS  *30 persen				- D (40 - 54 ) -> Tidak Lulus
+      UAS  *40 persen				- E ( < 40 )   -> Tidak lulus
+      NA= absen+tugas+uts+uas
+
